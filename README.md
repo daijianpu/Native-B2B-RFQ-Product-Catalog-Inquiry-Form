@@ -1,5 +1,9 @@
 # Native-B2B-RFQ-Product-Catalog-Inquiry-Form
 I developed this plugin to empower more people to quickly build high-performance B2B product catalogs and inquiry systems on WordPress.
+***
+This plugin has undergone multiple code reviews and rigorous audits to ensure it is secure, lightweight, and fully compliant with WordPress.org standards. If you encounter any bugs during use, please let me know, and I will perform a prompt fix to maintain peak performance.
+https://eezz.net/contact/
+***
 === Native B2B: RFQ Product Catalog & Inquiry Form ===
 Contributors: leadsentinel
 Tags: b2b, catalog, rfq, inquiry, woocommerce-alternative, product-showcase, wholesale, lead-generation
