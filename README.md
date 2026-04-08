@@ -16,6 +16,8 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 High-speed B2B Product Catalog & RFQ System. Native-first, zero-bloat architecture. The definitive WooCommerce alternative for professional wholesale and lead generation.
 
+<img width="1544" height="500" alt="image" src="https://github.com/user-attachments/assets/07c81305-250d-430f-be09-82ec09b71078" />
+
 == Description ==
 
 **The Anti-Bloat Manifesto**
